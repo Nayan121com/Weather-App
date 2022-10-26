@@ -1,0 +1,10 @@
+.vscode/
+hooks/
+info/
+objects/
+refs/
+config
+db.sqlite3
+description
+HEAD
+manage.py
